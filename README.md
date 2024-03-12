@@ -23,3 +23,5 @@ In the context of your Blog Generator, python-box could potentially be used for 
 Streamlit is a popular Python library for building interactive web applications for data science and machine learning projects.
 It allows you to create interactive dashboards and visualizations with minimal code, using familiar Python syntax.
 In the context of your Blog Generator, streamlit could be used to create a user-friendly interface for users to interact with the generator, customize blog settings, and view generated content in real-time.
+# Model
+## TheBloke/Llama-2-7B-Chat-GGML
